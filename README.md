@@ -48,7 +48,7 @@ Methods
 
 Feature scaling is performed using StandardScaler so that all variables are on a similar scale before training the models.
 
-Machine Learning Models UsedMachine Learning Models Used
+# Machine Learning Models UsedMachine Learning Models Used
 
 Three classification algorithms were implemented in this project.
 
@@ -61,7 +61,7 @@ Decision Tree Classifier
 K-Nearest Neighbors (KNN)
 - The number of neighbors was set to 7 instead of the default value to improve model stability and classification performance.
 
-Evaluation Metrics
+# Evaluation Metrics
 
 The models were evaluated using several common classification metrics:
 - Accuracy – the percentage of correct predictions
@@ -71,7 +71,7 @@ The models were evaluated using several common classification metrics:
 
 These metrics were generated using the classification report provided by Scikit-learn.
 
-Limitations
+# Limitations
 
 This project includes several limitations:
 - The dataset is relatively small and may not represent all real-world cancer cases.
