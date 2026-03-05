@@ -48,7 +48,7 @@ Methods
 
 Feature scaling is performed using StandardScaler so that all variables are on a similar scale before training the models.
 
-# Machine Learning Models UsedMachine Learning Models Used
+# Machine Learning Models Used
 
 Three classification algorithms were implemented in this project.
 
